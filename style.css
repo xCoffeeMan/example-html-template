@@ -1,0 +1,13 @@
+body {
+ background-color: rgba(70, 71, 71, 0.931);
+
+
+}
+.main {
+    background-color: antiquewhite;
+
+
+}
+.main .li .a {
+ display: flex;
+}
